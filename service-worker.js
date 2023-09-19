@@ -60,7 +60,7 @@ self.addEventListener('install', event => {
           'icons/152.png',
           'icons/167.png',
           'icons/180.png',
-          'icons/192.png',
+          'icons/196.png',
           'icons/256.png',
           'icons/512.png',
           'icons/1024.png',
