@@ -32,8 +32,6 @@ self.addEventListener('install', event => {
           
           'assets/js/util.js',
   
-          'assets/js/popper.min.js',
-  
           'assets/sass/main.scss',
   
           'assets/sass/libs/_breakpoints.scss',
